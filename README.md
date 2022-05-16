@@ -38,6 +38,6 @@ Este proyecto al ser realizado solo en un fin de semana se tuvieron que aplazar 
 
 ![implemetaciones futuras](https://github.com/JAntonioMoraG/Hack-the-Ocean/blob/main/assets/Implementacion_futura.jpg)
 
-## [Link de la pagina desplegada en azure]()
+## [Link de la pagina desplegada en github pages](https://jantoniomorag.github.io/Hack-the-Ocean/temperatura.html)
 
 # Gracias por visitar nuestro proyecto, lo realizamos con lo aprendido en LaunchX de Innovaccion Virtual de Microsoft y esperamos que sea de su agrado.
